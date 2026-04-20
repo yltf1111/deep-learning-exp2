@@ -52,7 +52,6 @@ coverage.xml
 *.pot
 
 # Django stuff:
-*.log
 local_settings.py
 db.sqlite3
 
@@ -109,8 +108,6 @@ venv.bak/
 
 # custom
 *.pkl
-*.pkl.json
-*.log.json
 docs/modelzoo_statistics.md
 mmdet/.mim
 
